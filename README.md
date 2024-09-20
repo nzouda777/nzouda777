@@ -1,8 +1,8 @@
-- 👋 Hi, I’m @nzouda777
-- 👀 I’m interested in web, mobile and desktop programming
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 👋 Hi, I’m Rodrigue NZOUDA 
+- 👀 Fullstack Developer
+- 🌱 Shopify developer
+- 💞️ Tech enthousiast 
+- 📫 Tech lead Brandify studios
 
 <!---
 nzouda777/nzouda777 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
